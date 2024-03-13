@@ -1,0 +1,24 @@
+-các cách để CSS :
++ inline
++ CSS trong file HTML : internal
++ CSS ở file riêng : external
+
+-CSS selector :
++tên thẻ : 
++class : có nhiều class, có thể tái sử dụng
++id : chỉ có 1, khó tái sử dụng
+
+-Độ ưu tiên :
+inline > internal > external
+id > class > tên thẻ > ghi đè
+
+key: value;
+key: value;
+key: value;
+key: value;
+key: value;
+
+-color
+-kích thước : width, height
+-căn chỉnh
+-bố cục

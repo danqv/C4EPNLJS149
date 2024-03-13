@@ -1,0 +1,15 @@
+-INSTALL EXTENSION :
+LIVE SERVER
+VSCODE-ICON
+HTML-CSS SUPSPORT
+PRETTIER
+
+kỳ 1 : HTML, ASS, JS
++bài kiểm tra
++sản phẫm : sẽ code 1 trang web nào đó, demo trang web ở buổi 16
+1.Tìm giao diện web, trang web nào đó đẹp để clone lại
+2.Chia các trang và chia bố cục, vùng cho các trang đó
+
+Kỳ 2 ： ReactJS
+Kỳ 3 : NodeJS （expressJS）, MongoDB （database -cơ sở dữ liệu ）
+kỳ 4

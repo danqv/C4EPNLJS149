@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    /*tất cả sẽ được viết trong thẻ này*/
+
+    /*selector - bộ chọn*/
+    /* có 3 cách chọn: */
+    /* C1 : chọn thông qua tên thẻ */
+    p {
+      color: blue;
+    }
+
+    /* C2 ： chọn thông qua ID  */
+    #red-txt {
+      color: red;
+    }
+    /* 
+        c3:chọn thông qua class */
+    .purple-txt {
+      color: purple;
+    }
+  </style>
+  <body>
+    <p>đây là ví dụ về internal style 1</p>
+
+    <!-- thẻ p có id là red-txt và có 2 class là color-text-red-1 color-text-red-2
+ có 2 cách để định danh cho thẻ là id và class
+ một thẻ chỉ có 1 id và có thể có nhiều class -->
+    <p id="red-txt" color-text-red-2">
+      đây là ví dụ về internal style 2
+    </p>
+
+    <p>class="color-text-red-1</p>
+  </body>
+</html>
